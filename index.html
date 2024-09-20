@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+    <script data-require="jquery@*" data-semver="3.1.1" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.js"></script>
+    <link rel="stylesheet" href="style.css" />
+    <script src="script.js"></script>
+    <script src="https://code.jquery.com/jquery-1.12.4.js"></script>
+    <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+    <img src=" data:image/jpeg;base64,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 ">
+   
+  </head>
+  
+  <body>
+    <h2>Student Management System </h2>
+    <h3> by © 2024 Lasindu Software</h3>
+        
+    
+
+      <table cellspacing="5" border="0">
+        <tbody>
+          <tr>
+            <td>Firstname:</td>
+            <td align="left">
+              <input id="firstname" type="text" size="30" maxlength="30" placeholder="Username within 10 characters" />
+            </td>
+          </tr>
+          <tr>
+            <td>Lastname:</td>
+            <td align="left">
+              <input id="lastname" type="text" size="30" maxlength="30" placeholder="Password within 10 characters" />
+            </td>
+          </tr>
+          <tr>
+            <td>Email:</td>
+            <td align="left">
+              <input id="email" type="text" size="30" maxlength="30" placeholder="exp: XXX@marlabs.com"/>
+            </td>
+          </tr>
+          <tr>
+            <td>Location:</td>
+            <td align="left">
+              <input id="location" type="text" size="30" maxlength="30" placeholder="street, city, state."/>
+            </td>
+          </tr>
+          <tr>
+            <td>Phone:</td>
+            <td align="left">
+              <input id="phone" type="text" size="30" maxlength="30" placeholder="U.S. number only"/>
+            </td>
+          </tr>
+          <tr>
+            <td>Current_class:</td>
+            <td align="left">
+              <input id="current" type="text" size="30" maxlength="30" placeholder="1 - 10th"/>
+            </td>
+          </tr>
+          <tr>
+            <td>Address</td>
+            <td>communication:</td>
+            <td align="left">
+              <input id="comm" type="text" size="30" maxlength="30" placeholder="street, city, state."/>
+            </td>
+          </tr>
+          <tr>
+            <td></td>
+            <td>permanent:</td>
+            <td align="left">
+              <input id="perm" type="text" size="30" maxlength="30" placeholder="street, city, state."/>
+            </td>
+          </tr>
+          <tr>
+            <td>Marks</td>
+            <td>english:</td>
+            <td align="left">
+              <input id="eng" type="text" size="30" maxlength="30" placeholder="1 - 100"/>
+            </td>
+          </tr>
+          <tr>
+            <td></td>
+            <td>science:</td>
+            <td align="left">
+              <input id="sci" type="text" size="30" maxlength="30" placeholder="1 - 100"/>
+            </td>
+          </tr>
+          <tr>
+            <td></td>
+            <td>computer:</td>
+            <td align="left">
+              <input id="comp" type="text" size="30" maxlength="30" placeholder="1 - 100"/>
+            </td>
+          </tr>
+          <tr>
+            <td></td>
+            <td>hardware:</td>
+            <td align="left">
+              <input id="hard" type="text" size="30" maxlength="30" placeholder="1 - 100"/>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+      <img src=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfeJex37ibca8bl6rvcA5RGy5Acpdpt79mIg&s ">
+      
+      <div id="loccard" style="height: 40px;">
+      <div id="makeMeDraggable1" >your photo</div> 
+      <div id="makeMeDraggable2" >your photo</div>
+      <div id="makeMeDraggable3" >your photo</div>
+      </div>
+      
+      <br />
+      
+      <div id="slot" style="height: 50px;">
+      <div id="makeMeDroppable">drop photo</div>
+      </div>
+      
+      <br />
+      <br />
+      <br />
+
+      <input type="submit" value="Add" id="add" />
+      <input type="submit" value="Search" id="search" />
+      <input type="submit" value="Details" id="details" />
+      <input type="submit" value="Delete" id="delete" />
+      <input type="submit" value="Edit" id="edit" />
+      <select name="dropdown" id="dropdown">
+          <option  value="20">20</option>
+          <option  value="50">50</option>
+          <option  value="100">100</option>
+      </select>
+      <input type="submit" value="Go" id="go" />
+    <br /><br />
+    <p id="deletedemo"></p>
+    <table id="myTable" style="width:50%" border="2px">
+      <tr><td> firstname </td>
+      <td> lastname </td>
+      <td> email </td>
+      <td> location </td>
+      <td> phone </td>
+      <td> current_class </td>
+      <td> address </td>
+      </tr>
+    </table>
+    <br />
+    <table id="detailtable" style="width:50%" border="2px">
+    </table>
+    <h3 id="nomore"></h3>
+  </body>
+
+</html>

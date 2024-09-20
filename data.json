@@ -1,0 +1,223 @@
+[
+    {
+      "firstname": "Sanford Frazier",
+      "lastname": "Hurst Forbes",
+      "email": "hurstforbes@geeketron.com",
+      "location": "Bentonville,Wakulla,Saticoy",
+      "phone": "(963) 568-3918",
+      "current_class": "6th",
+      "address": [
+        {
+          "communication": "Zensor, Idledale, Illinois",
+          "permanent": "Comvey, Dodge, Florida"
+        }
+      ],
+      "marks": [
+        {
+          "english": 65,
+          "science": 9,
+          "computer": 60,
+          "hardware": 75
+        }
+      ]
+    },
+    {
+      "firstname": "Yvonne Mcmillan",
+      "lastname": "Pace Barrera",
+      "email": "pacebarrera@comvey.com",
+      "location": "Nipinnawasee,Cucumber,Gloucester",
+      "phone": "(807) 424-2843",
+      "current_class": "5th",
+      "address": [
+        {
+          "communication": "Syntac, Hinsdale, Louisiana",
+          "permanent": "Xiix, Matthews, Alaska"
+        }
+      ],
+      "marks": [
+        {
+          "english": 5,
+          "science": 11,
+          "computer": 57,
+          "hardware": 55
+        }
+      ]
+    },
+    {
+      "firstname": "Lopez Faulkner",
+      "lastname": "Owen Zamora",
+      "email": "owenzamora@xiix.com",
+      "location": "Summertown,Teasdale,Chemung",
+      "phone": "(855) 530-2515",
+      "current_class": "10th",
+      "address": [
+        {
+          "communication": "Snowpoke, Glenville, Mississippi",
+          "permanent": "Telepark, Barrelville, Arkansas"
+        }
+      ],
+      "marks": [
+        {
+          "english": 90,
+          "science": 53,
+          "computer": 100,
+          "hardware": 22
+        }
+      ]
+    },
+    {
+      "firstname": "Rojas Madden",
+      "lastname": "Stuart Velasquez",
+      "email": "stuartvelasquez@telepark.com",
+      "location": "Hondah,Crayne,Witmer",
+      "phone": "(916) 527-2276",
+      "current_class": "5th",
+      "address": [
+        {
+          "communication": "Virva, Ladera, Maryland",
+          "permanent": "Hopeli, Jessie, Nevada"
+        }
+      ],
+      "marks": [
+        {
+          "english": 63,
+          "science": 49,
+          "computer": 71,
+          "hardware": 42
+        }
+      ]
+    },
+    {
+      "firstname": "Velazquez Sherman",
+      "lastname": "Spence Parsons",
+      "email": "spenceparsons@hopeli.com",
+      "location": "Venice,Moscow,Williston",
+      "phone": "(844) 546-3100",
+      "current_class": "5th",
+      "address": [
+        {
+          "communication": "Candecor, Frystown, Connecticut",
+          "permanent": "Gallaxia, Inkerman, Massachusetts"
+        }
+      ],
+      "marks": [
+        {
+          "english": 5,
+          "science": 61,
+          "computer": 66,
+          "hardware": 22
+        }
+      ]
+    },
+    {
+      "firstname": "Pearlie Marsh",
+      "lastname": "Quinn Wilkins",
+      "email": "quinnwilkins@gallaxia.com",
+      "location": "Chestnut,Hegins,Hickory",
+      "phone": "(843) 465-3400",
+      "current_class": "5th",
+      "address": [
+        {
+          "communication": "Tingles, Jeff, Georgia",
+          "permanent": "Comvoy, Mappsville, New Mexico"
+        }
+      ],
+      "marks": [
+        {
+          "english": 39,
+          "science": 19,
+          "computer": 7,
+          "hardware": 57
+        }
+      ]
+    },
+    {
+      "firstname": "Velma Sargent",
+      "lastname": "Millie Calhoun",
+      "email": "milliecalhoun@comvoy.com",
+      "location": "Eagletown,Hannasville,Veguita",
+      "phone": "(930) 500-3751",
+      "current_class": "9th",
+      "address": [
+        {
+          "communication": "Zappix, Rosewood, California",
+          "permanent": "Zisis, Grantville, Maine"
+        }
+      ],
+      "marks": [
+        {
+          "english": 68,
+          "science": 13,
+          "computer": 84,
+          "hardware": 53
+        }
+      ]
+    },
+    {
+      "firstname": "Shepherd Hubbard",
+      "lastname": "Espinoza Tran",
+      "email": "espinozatran@zisis.com",
+      "location": "Mapletown,Trail,Hollymead",
+      "phone": "(838) 435-3072",
+      "current_class": "3th",
+      "address": [
+        {
+          "communication": "Sealoud, Stagecoach, Tennessee",
+          "permanent": "Endipin, Robinson, Missouri"
+        }
+      ],
+      "marks": [
+        {
+          "english": 40,
+          "science": 79,
+          "computer": 52,
+          "hardware": 67
+        }
+      ]
+    },
+    {
+      "firstname": "Haney Dillon",
+      "lastname": "Solomon Burt",
+      "email": "solomonburt@endipin.com",
+      "location": "Remington,Woodburn,Bonanza",
+      "phone": "(892) 582-2420",
+      "current_class": "5th",
+      "address": [
+        {
+          "communication": "Earwax, Bangor, Northern Mariana Islands",
+          "permanent": "Enormo, Olney, Virginia"
+        }
+      ],
+      "marks": [
+        {
+          "english": 49,
+          "science": 44,
+          "computer": 82,
+          "hardware": 42
+        }
+      ]
+    },
+    {
+      "firstname": "Whitehead Goff",
+      "lastname": "Gay Morales",
+      "email": "gaymorales@enormo.com",
+      "location": "Gibbsville,Bakersville,Twilight",
+      "phone": "(814) 525-3891",
+      "current_class": "3th",
+      "address": [
+        {
+          "communication": "Kyaguru, Waukeenah, Virgin Islands",
+          "permanent": "Ecraze, Riner, Nebraska"
+        }
+      ],
+      "marks": [
+        {
+          "english": 65,
+          "science": 17,
+          "computer": 58,
+          "hardware": 70
+        }
+      ]
+    }
+  
+  ]
